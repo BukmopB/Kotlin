@@ -1,0 +1,1 @@
+/home/bukmop/Study/Specialist/Kotlin1/Lesson1/build/classes/kotlin/main/TestKotlinKt.class
