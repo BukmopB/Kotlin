@@ -15,6 +15,7 @@ class Outer {
             println("hello from companion object")
         }
         fun get() : Outer = Outer()
+        val name = "Dima"
     }
 }
 
@@ -50,11 +51,15 @@ fun  main()
 
 
 
-/*
-    // val outer = Outer() // private constructor
+/*    // val outer = Outer() // private constructor
     val outer = Outer.get()
     Outer.Loader.hello()
-*/
+
+    println(Outer.hello())
+    println(Outer.name)
+//    val outer = Outer()
+//    println(outer.hello())
+//    println(outer.name)*/
 
 /*
     println(   Singleton.name )
