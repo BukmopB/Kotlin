@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Lesson1" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson2" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson3" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson5" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson6" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson7" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK" />
+</project>

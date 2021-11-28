@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kotlin1.iml" filepath="$PROJECT_DIR$/.idea/Kotlin1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson1.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson2.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson3.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson4.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson5.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson5.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson5.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson5.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson5.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson6.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson6.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson6.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson6.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson6.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson7.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson7.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson7.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lesson7.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Lesson7.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson8/Lesson8.iml" filepath="$PROJECT_DIR$/Lesson8/Lesson8.iml" />
+    </modules>
+  </component>
+</project>
